@@ -1,0 +1,7 @@
+com\capstone\compensation\model\SignUpRequest.class
+com\capstone\compensation\controller\RegisterUserController.class
+com\capstone\compensation\service\impl\RegisterUserServiceImpl.class
+com\capstone\compensation\model\UserRoles.class
+com\capstone\compensation\validation\UserValidation.class
+com\capstone\compensation\errorresponse\MessageResponse.class
+com\capstone\compensation\service\RegisterUserService.class
